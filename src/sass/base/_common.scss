@@ -30,6 +30,7 @@ h5,
 h6,
 p {
     margin-top: 0;
+    margin-bottom: 0;
 }
 
 ul li {
@@ -50,4 +51,10 @@ img {
     list-style: none;
     padding-left: 0;
     margin: 0;
+}
+
+.section-title {
+    font-size: 36px;
+    line-height: 1.11;
+    color: var(--primary-title-color);
 }
